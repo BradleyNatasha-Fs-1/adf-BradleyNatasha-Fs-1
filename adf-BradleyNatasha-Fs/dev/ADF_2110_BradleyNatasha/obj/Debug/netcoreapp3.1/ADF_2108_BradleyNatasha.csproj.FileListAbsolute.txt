@@ -1,0 +1,51 @@
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.deps.json
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.runtimeconfig.json
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.runtimeconfig.dev.json
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.dll
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.pdb
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.csprojAssemblyReference.cache
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.AssemblyInfoInputs.cache
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.AssemblyInfo.cs
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.csproj.CoreCompileInputs.cache
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.dll
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.pdb
+/Users/natashabradley/Documents/school work/IDT2 2103/ADF_2107_BradleyNatasha/ADF_2107_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.genruntimeconfig.cache
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.deps.json
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.runtimeconfig.json
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.runtimeconfig.dev.json
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.dll
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.pdb
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.csproj.AssemblyReference.cache
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.AssemblyInfoInputs.cache
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.AssemblyInfo.cs
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.csproj.CoreCompileInputs.cache
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.dll
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.pdb
+/Users/natashabradley/Desktop/project/ADF_2108_BradleyNatasha-2/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.genruntimeconfig.cache
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.deps.json
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.runtimeconfig.json
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.runtimeconfig.dev.json
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.dll
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.pdb
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.csproj.AssemblyReference.cache
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.AssemblyInfoInputs.cache
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.AssemblyInfo.cs
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.csproj.CoreCompileInputs.cache
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.dll
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.pdb
+/Users/natashabradley/Desktop/project/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.genruntimeconfig.cache
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.csproj.AssemblyReference.cache
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.AssemblyInfoInputs.cache
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.AssemblyInfo.cs
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.csproj.CoreCompileInputs.cache
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.dll
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.pdb
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.deps.json
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.runtimeconfig.json
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.runtimeconfig.dev.json
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.dll
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/bin/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.pdb
+/Users/natashabradley/Documents/GitHub/adf-BradleyNatasha-Fs/dev/ADF_2110_BradleyNatasha/obj/Debug/netcoreapp3.1/ADF_2108_BradleyNatasha.genruntimeconfig.cache
